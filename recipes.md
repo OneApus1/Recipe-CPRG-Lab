@@ -46,6 +46,17 @@ Instructions:
 4. Season with salt and pepper to taste.
 5. Top each toasted baguette slice with the tomato mixture.
 
+### Glass of water
+
+Ingredients:
+- 1 glass
+- 1 cup of water
+
+Instructions:
+1. Grab glass
+2. Poor water into glass
+3. Good job
+
 ## Entrees
 ### Spaghetti and Meatballs
 
