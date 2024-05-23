@@ -81,6 +81,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- 2 hotdogs
 
 Instructions:
 1. Preheat grill to medium-high heat.
