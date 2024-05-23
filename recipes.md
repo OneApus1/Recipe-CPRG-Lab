@@ -113,3 +113,19 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Sunnyside Eggs
+
+Ingredients:
+- 1 egg
+- 2 tsp salt
+- 1 tsp pepper
+- 1 tbsp butter
+
+Instructions:
+1. Pre-heat pan
+2. Add butter to pan
+3. Crack egg on pan
+4. Cook for like 1 minute at max heat
+5. Add salt and pepper to egg
+6. Serve
